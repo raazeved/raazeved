@@ -16,9 +16,15 @@ Welcome to my profile :octocat:
 
 <li><g-emoji class="g-emoji" alias="mailbox" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4eb.png">📫</g-emoji> How to reach me : <a href="https://t.me/raazeved" rel="nofollow">Telegram</a></li>
 
-![Karanalpe Status](https://github-readme-stats.vercel.app/api?username=raazeved&show_icons=true)
-[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=raazeved&layout=compact)](https://github.com/raazeved/github-readme-stats)
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats) 
+<table> 
+<thead> <tr>
+<th><a href="https://github.com/raazeved/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=raazeved&show_icons=true" alt="Rogerio's github stats" data-canonical-src="https://github-readme-stats.vercel.app/api?username=raazeved&amp;show_icons=true&amp;include_all_commits=true&amp;theme=buefy&amp;hide_border=true" style="max-width: 100%;"> </a></th>
+
+<th><a href="https://github.com/raazeved/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raazeved&layout=compact)https://github.com/raazeved/github-readme-stats" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=raazeved&amp;layout=compact&amp;theme=buefy&amp;hide_border=true" style="max-width: 100%;"></a></th>
+</tr> </thead>
+</table>
+
+[![Raazeved's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=raazeved)](https://github.com/raazeved/github-readme-stats) 
 
 <!---
 raazeved/raazeved is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
