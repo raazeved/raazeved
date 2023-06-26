@@ -7,11 +7,11 @@
       
 ## Hello All, Welcome to my profile :octocat:!
   
-<li>👷 I'm currently working as Technical Lead, Solution Architect or Data Scient and Analytics freelance at Activaclick </li>
-<li>🎓 I've BS in Applied Math| FMU  -- And -- BS in Manufacturing Engineering | UNINOVE 📚 </li>
-<li>💻 Passionate about (1) Business with Operation Agility, (2) IT with Financial Engineering, (2) Enterprise Architecture and Data Science.</li>
-<li>👨🏻‍💻 Studing FullCycle Development, Java 8 or 11,.Net CORE, 💙 Datascience Phyton, Blockchain, IoT, DevSecOps, React/Node/ReactNative.</li>
-<li>☕  Broadly experience with Full Stack Sass with focus on Java, JavaScript e .NET Platforms ☕.</li>
+<li>👷 I'm currently working as Technical Lead, Solution Architect or Data Scient, Analytics freelance at Activaclick </li>
+<li>🎓 I've BS in Applied Math| FMU  -- And -- BS in Manufacturing Engineering| UNINOVE 📚</li>
+<li>👨🏻‍💻 Studing FullCycle JEE, 💙 Datascy Phyton, GoStack/Ignite React|Node,Microservices/API JEE JDev, Others(Blockchain,IoT,DevSecOps.</li>
+<li>☕  Broadly experience with Onpremises, Mobile, Full Stack IasS|SasS|BasS with focus on JEE|Python|React/Node|.NET Platforms ☕.</li>
+<li>💻 Passionate about (1)Business Agility PMI-DA/Safe, (2)IT Plus Financial Engineering, (3)Enterprise Architecture Plus DataScience.</li>
  
 #### In general, I'm working customize new coding approach in order to prepare new systems design and to serve for increase produtivity in coding by using upward a project, SOLID and others architecture pattners and principles as started in coding some systems or pieace of system to warrant early deliverys while works with DevSecOps in a Squad.
 
