@@ -15,6 +15,8 @@
  
 #### In general, I'm working customize new coding approach in order to prepare new systems design and to serve for increase produtivity in coding by using upward a project, SOLID and others architecture pattners and principles as started in coding some systems or pieace of system to warrant early deliverys while works with DevSecOps in a Squad.
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+
 <table> 
 <thead> <tr>
 <th><a href="https://github.com/raazeved/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=raazeved&show_icons=true" alt="Rogerio's github stats" data-canonical-src="https://github-readme-stats.vercel.app/api?username=raazeved&amp;show_icons=true&amp;include_all_commits=true&amp;theme=buefy&amp;hide_border=true" style="max-width: 100%;"> </a></th>
