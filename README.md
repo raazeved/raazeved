@@ -9,7 +9,7 @@
   
 <li>👷 I'm currently working as freelance Technical Lead, Solution Architect or DataScient,Analytics Engineering at Activaclick </li>
 <li>🎓 I've BS in Applied Math|FMU --And-- BS in Manufacturing Engineering|UNINOVE --And-- Master of Data Science|Datascy📚</li>
-<li>👨🏻‍💻 Studing 💙FullCycle Phyton/JEE/.NET,💙GoStack/Ignite React|Node,💙Microservice/API JEE JDev,💙Cloud(Blockchain,IoT,DevSecOps)</li>
+<li>👨🏻‍💻 Studing FullCycle Phyton/JEE/.NET--GoStack/Ignite React|Node--Microservice/API JEE JDev--Cloud(Blockchain,IoT,DevSecOps)</li>
 <li>☕  Broadly experience with Onpremises, Mobile, Full Stack IasS|SasS|BasS, Stacks JEE|Python|React/Node|.NET Platforms☕</li>
 <li>💻 Passionate about (1)Business Agility DA/Safe--(2)IT Plus Financial Engineering--(3)Enterprise Architecture,DataScience</li>
  
