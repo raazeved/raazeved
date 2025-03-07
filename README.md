@@ -1,4 +1,4 @@
-<th><a href="https://www.linkedin.com/in/rogerio-meira/" rel="nofollow"> <img loading="lazy" decoding="async" width="531" height="227" class="wp-image-6496 aligncenter" src="https://www.exprimiendolinkedin.com/wp-content/uploads/2018/04/qué-es-Linkedin-y-para-qué-sirve-empresas.png" alt="linkedin Logo png" www.linkedin.com/in/rogerio-meira/" style="max-width: 100%;"></a></th>
+<th><a href="https://www.linkedin.com/in/rogerio-meira/" rel="nofollow"> <img loading="lazy" decoding="async" width="100" height="100" class="wp-image-6496 aligncenter" src="https://www.exprimiendolinkedin.com/wp-content/uploads/2018/04/qué-es-Linkedin-y-para-qué-sirve-empresas.png" alt="linkedin Logo png" www.linkedin.com/in/rogerio-meira/" style="max-width: 100%;"></a></th>
 
 <th><a href="https://t.me/raazeved"> <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge" data-canonical-src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&amp; link=https://t.me/raazeved" style="max-width: 100%;"> </a></th>
       
