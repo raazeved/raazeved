@@ -1,6 +1,5 @@
-<th><a href="https://www.linkedin.com/in/rogerio-meira/" rel="nofollow"><img 
-src="https://logospng.org/logo-linkedin/#google_vignette; www.linkedin.com/in/rogerio-meira/" style="max-width: 100%;"></a></th>
-    
+<th><a href="https://www.linkedin.com/in/rogerio-meira/" rel="nofollow"><img loading="lazy" decoding="async" width="800" height="800" src="https://blog.waalaxy.com/wp-content/uploads/2021/01/3.jpg" alt="LinkedIn Logo jpg" www.linkedin.com/in/rogerio-meira/" style="max-width: 100%;"></a></th> 
+
 <th><a href="https://t.me/raazeved"> <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge" data-canonical-src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&amp; link=https://t.me/raazeved" style="max-width: 100%;"> </a></th>
       
 <th><a href="mailto:raazeved@gmail.com"><img src="https://camo.githubusercontent.com/ac8d5c5cdbc05628c1fc0a80754d18d7ab51cc37d4bd68a77eb84da6f869380c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d476d61696c2d6331343433383f7374796c653d666f722d7468652d6261646765266c6f676f3d476d61696c266c6f676f436f6c6f723d7768697465266c696e6b3d6d61696c746f3a726562656363616d616e7a6940676d61696c2e636f6d" alt="Gmail Badge" data-canonical-src="https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&amp;logo=Gmail&amp;logoColor=white&amp;link=mailto:raazeved@gmail.com" style="max-width: 100%;"></a></th>
