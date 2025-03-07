@@ -1,4 +1,4 @@
-<th><a href="https://www.linkedin.com/in/rogerio-meira/" rel="nofollow"><img loading="lazy" decoding="async" width="100" height="100" src="https://blog.waalaxy.com/wp-content/uploads/2021/01/3.jpg" alt="LinkedIn Logo jpg" www.linkedin.com/in/rogerio-meira/" style="max-width: 100%;"></a></th> 
+<th><a href="https://www.linkedin.com/in/rogerio-meira/" rel="nofollow"> <img loading="lazy" decoding="async" width="531" height="227" class="wp-image-6496 aligncenter" src="https://www.exprimiendolinkedin.com/wp-content/uploads/2018/04/qué-es-Linkedin-y-para-qué-sirve-empresas.png" alt="linkedin Logo png" www.linkedin.com/in/rogerio-meira/" style="max-width: 100%;"></a></th>
 
 <th><a href="https://t.me/raazeved"> <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge" data-canonical-src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&amp; link=https://t.me/raazeved" style="max-width: 100%;"> </a></th>
       
@@ -8,7 +8,7 @@
 ## Hello All, Welcome to my profile :octocat:!
   
 <li>👷 I'm a passionate Tech Lead, Solution Architect, and Data Scientist currently working at Activaclick freelance jobs.</li>
-<li>🎓 I hold a BSc in Applied Mathematics (FMU), a BSc in Manufacturing Engineering (UNINOVE), and Master's in Data Science & AI📚</li>
+<li>🎓 I hold a BSc in Applied Mathematics(FMU), a BSc in Manufacturing Engineering(UNINOVE), a Data Science & AI(DATATechFlorida).</li>
 <li>👨🏻‍💻 Currently studying FullCycle with Python,JEE,NET,React,Node applying Microservices/API,Cloud,Blockchain,IoT,DevSecOps</li>
 <li>☕ Extensive experience with on-premises, mobile, and full-stack solutions, working with IaaS,SaaS,BaaS, NoCode platforms.</li>
 <li>💻 Passionate about (1)Business Agility (DA/SAFe), (2)IT & Financial Engineering, and (3)Enterprise Architecture & Data Science.</li>
