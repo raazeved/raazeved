@@ -1,4 +1,4 @@
-<th><a href="https://www.linkedin.com/in/rogerio-meira/" rel="nofollow"> <img decoding="async" src="https://logodownload.org/wp-content/uploads/2019/03/linkedin-logo.png" alt="linkedin logo." title="LinkedIn Logo" www.linkedin.com/in/rogerio-meira/" style="max-width: 100%;"></a></th>
+<th><a href="https://www.linkedin.com/in/rogerio-meira/" rel="nofollow"> <img style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="https://logodownload.org/wp-content/uploads/2019/03/linkedin-logo.png" width="100" height="100" alt="linkedin logo." title="LinkedIn Logo" www.linkedin.com/in/rogerio-meira/"></a></th>
 
 <th><a href="https://t.me/raazeved"> <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge" data-canonical-src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&amp; link=https://t.me/raazeved" style="max-width: 100%;"> </a></th>
       
